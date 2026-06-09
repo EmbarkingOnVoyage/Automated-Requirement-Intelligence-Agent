@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.AnalysisController",
+    "Method": "Analyze",
+    "RelativePath": "api/Analysis/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequirementAnalysisProject.Models.AnalyzeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.AnalysisController",
+    "Method": "AnalyzeVideo",
+    "RelativePath": "api/Analysis/analyze-video",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RequirementAnalysisProject.Models.VideoAnalyzeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.AnalysisController",
+    "Method": "Consolidate",
+    "RelativePath": "api/Analysis/consolidate/{projectId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.AnalysisController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Analysis/history/{projectId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.AnalysisController",
+    "Method": "GetStats",
+    "RelativePath": "api/Analysis/stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.ProjectController",
+    "Method": "CreateProject",
+    "RelativePath": "api/Project",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RequirementAnalysisProject.Models.CreateProjectDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.ProjectController",
+    "Method": "GetAll",
+    "RelativePath": "api/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.ProjectController",
+    "Method": "GetById",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequirementAnalysisProject.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RequirementAnalysisProject.WeatherForecast, RequirementAnalysisProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

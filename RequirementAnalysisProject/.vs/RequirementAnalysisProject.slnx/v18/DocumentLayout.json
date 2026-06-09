@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RequirementAnalysisProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\repositories\\consolidatedresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\repositories\\consolidatedresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\models\\entities\\consolidatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\models\\entities\\consolidatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\controller\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\controller\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\models\\videoanalyzerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\models\\videoanalyzerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\services\\ianalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\models\\dashboardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\models\\dashboardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\models\\analyzeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\models\\analyzeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\services\\ai\\prompts\\requirementprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\services\\ai\\prompts\\requirementprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\models\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\models\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\repositories\\analysisresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\repositories\\analysisresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\services\\analysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\repositories\\ianalysisresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\repositories\\ianalysisresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\services\\ai\\prompts\\consolidationprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\services\\ai\\prompts\\consolidationprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|d:\\requirementanalysisproject\\requirementanalysisproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2DA249-5274-6D81-D903-87F1944E1A2C}|RequirementAnalysisProject\\RequirementAnalysisProject.csproj|solutionrelative:requirementanalysisproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsolidatedResultRepository.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\ConsolidatedResultRepository.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Repositories\\ConsolidatedResultRepository.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\ConsolidatedResultRepository.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Repositories\\ConsolidatedResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:01:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsolidatedResult.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\Entities\\ConsolidatedResult.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Models\\Entities\\ConsolidatedResult.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\Entities\\ConsolidatedResult.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Models\\Entities\\ConsolidatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:01:30.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnalysisService.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\IAnalysisService.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Services\\IAnalysisService.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\IAnalysisService.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Services\\IAnalysisService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:48:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardStats.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\DashboardStats.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Models\\DashboardStats.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\DashboardStats.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Models\\DashboardStats.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:26:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Program.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Program.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Program.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:54:17.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnalyzeResponse.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\AnalyzeResponse.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Models\\AnalyzeResponse.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\AnalyzeResponse.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Models\\AnalyzeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:01:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequirementPrompt.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AI\\Prompts\\RequirementPrompt.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Services\\AI\\Prompts\\RequirementPrompt.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AI\\Prompts\\RequirementPrompt.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Services\\AI\\Prompts\\RequirementPrompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:49:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoAnalyzeRequest.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\VideoAnalyzeRequest.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Models\\VideoAnalyzeRequest.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\VideoAnalyzeRequest.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Models\\VideoAnalyzeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:50:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Controller\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Controller\\AnalysisController.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Controller\\AnalysisController.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Controller\\AnalysisController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:52:17.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\Entities\\Conversation.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Models\\Entities\\Conversation.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Models\\Entities\\Conversation.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Models\\Entities\\Conversation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:04:26.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnalysisResultRepository.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\AnalysisResultRepository.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Repositories\\AnalysisResultRepository.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\AnalysisResultRepository.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Repositories\\AnalysisResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:43:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalysisService.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AnalysisService.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Services\\AnalysisService.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AnalysisService.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Services\\AnalysisService.cs",
+              "ViewState": "AgIAAHADAAAAAAAAAAAvwH8DAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:49:21.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Repositories\\ConversationRepository.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\ConversationRepository.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Repositories\\ConversationRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:42:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAnalysisResultRepository.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\IAnalysisResultRepository.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Repositories\\IAnalysisResultRepository.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Repositories\\IAnalysisResultRepository.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Repositories\\IAnalysisResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:51:31.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsolidationPrompt.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AI\\Prompts\\ConsolidationPrompt.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Services\\AI\\Prompts\\ConsolidationPrompt.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Services\\AI\\Prompts\\ConsolidationPrompt.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Services\\AI\\Prompts\\ConsolidationPrompt.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAswCsBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:25:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RequirementAnalysisProject\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\RequirementAnalysisProject\\RequirementAnalysisProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RequirementAnalysisProject\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:40:32.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
