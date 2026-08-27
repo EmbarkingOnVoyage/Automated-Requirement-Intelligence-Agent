@@ -1,0 +1,6 @@
+﻿RequirementAnalysisProject/.vs/
+**/[Vv]s/
+**/bin/
+**/obj/
+**/appsettings.Development.json
+.env
